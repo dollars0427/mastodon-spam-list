@@ -3,15 +3,15 @@
 This repository keeps Mastodon instances, which is too much spammer. 
 
 # FAQ
-**Why should list these mastodon? **
+** Why should list these mastodon? **
 
 I hope this list can help instances admin aware for spam attack, or avoid too many spam content on featured timeline.
 
-**I hope my mastodon instances remove from this list! **
+** I hope my mastodon instances remove from this list! **
 
 If you are the admin or user of instance, and most of spam content had been removed from instance, Please free to open an issues.
 
-**I hope to add new instances to this list! **
+** I hope to add new instances to this list! **
 
 Please free to open an issues. 
 
