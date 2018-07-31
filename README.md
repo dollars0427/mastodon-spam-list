@@ -1,6 +1,6 @@
 # mastodon-spam-list
 
-This repository keeps Mastodon instances, which is too much spammer. 
+This repository keeps Mastodon instances, which had too much spammer.
 
 # FAQ
 ### Why should list these mastodon? 
