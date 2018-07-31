@@ -15,57 +15,31 @@ If you are the admin or user of instance, and most of spam content had been remo
 
 Please free to open an issues. 
 
-## Current List                                                                                           
-ediot.social       
-
-freezepeach.xyz                                                         
-
-gs.smuglo.li                                                                                  
-
-pawoo.net                                                                           
-
-unsafe.space                                                                            
-
-woofer.alfter.us                        
-
-m.russnelson.com
-
-vcm2.m.to
-
-themepark.m.to
-
-beyblade.m.to
-
-social.exan.tech
-
-psychoactive.space
-
-snabeltann.no
-
-qoto.org
-
-toot.redmine.jp
-
-dramadon.net
-
-mastodon.desord.re
-
-negipan.m.to
-
-soogle.m.to
-
-mstdn.tokyocameraclub.com
-
-social.fab-l3.org
-
-mstdn.prfm.jp
-
-opanchusaikou.m.to
-
-artoot.xyz
-
-sektori.org
-
-mirohli.m.to
-
-mastodoncr.com
+## Instance List                                                                                           
+* ediot.social       
+* freezepeach.xyz                                                         
+* gs.smuglo.li                                                                                  
+* pawoo.net                                                                           
+* unsafe.space                                                                            
+* woofer.alfter.us                        
+* m.russnelson.com
+* vcm2.m.to
+* themepark.m.to
+* beyblade.m.to
+* social.exan.tech
+* psychoactive.space
+* snabeltann.no
+* qoto.org
+* toot.redmine.jp
+* dramadon.net
+* mastodon.desord.re
+* negipan.m.to
+* soogle.m.to
+* mstdn.tokyocameraclub.com
+* social.fab-l3.org
+* mstdn.prfm.jp
+* opanchusaikou.m.to
+* artoot.xyz
+* sektori.org
+* mirohli.m.to
+* mastodoncr.com
